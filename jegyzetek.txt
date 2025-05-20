@@ -5,7 +5,7 @@ Npm create vite@latest
 Cd
 Npm install
 
-Nem run dev
+Npm run dev
 
 Backend létrehozás:
 

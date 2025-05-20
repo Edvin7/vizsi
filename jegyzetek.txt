@@ -1,0 +1,15 @@
+Frontend létrehozás:
+
+Npm create vite@latest
+
+Backend létrehozás:
+
+mkdir backend
+cd backend
+
+npm init -y
+
+npm install express
+
+touch index.js   //index létrehozása
+

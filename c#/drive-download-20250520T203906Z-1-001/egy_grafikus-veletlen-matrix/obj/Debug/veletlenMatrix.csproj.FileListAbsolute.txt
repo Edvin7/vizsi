@@ -1,0 +1,10 @@
+C:\Users\Szalkai-SzaboAdam\Downloads\SzalkaiSzaboAdam_veletlenMatrix\veletlenMatrix\bin\Debug\veletlenMatrix.exe.config
+C:\Users\Szalkai-SzaboAdam\Downloads\SzalkaiSzaboAdam_veletlenMatrix\veletlenMatrix\bin\Debug\veletlenMatrix.exe
+C:\Users\Szalkai-SzaboAdam\Downloads\SzalkaiSzaboAdam_veletlenMatrix\veletlenMatrix\bin\Debug\veletlenMatrix.pdb
+C:\Users\Szalkai-SzaboAdam\Downloads\SzalkaiSzaboAdam_veletlenMatrix\veletlenMatrix\obj\Debug\veletlenMatrix.csproj.AssemblyReference.cache
+C:\Users\Szalkai-SzaboAdam\Downloads\SzalkaiSzaboAdam_veletlenMatrix\veletlenMatrix\obj\Debug\veletlenMatrix.Form1.resources
+C:\Users\Szalkai-SzaboAdam\Downloads\SzalkaiSzaboAdam_veletlenMatrix\veletlenMatrix\obj\Debug\veletlenMatrix.Properties.Resources.resources
+C:\Users\Szalkai-SzaboAdam\Downloads\SzalkaiSzaboAdam_veletlenMatrix\veletlenMatrix\obj\Debug\veletlenMatrix.csproj.GenerateResource.cache
+C:\Users\Szalkai-SzaboAdam\Downloads\SzalkaiSzaboAdam_veletlenMatrix\veletlenMatrix\obj\Debug\veletlenMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Szalkai-SzaboAdam\Downloads\SzalkaiSzaboAdam_veletlenMatrix\veletlenMatrix\obj\Debug\veletlenMatrix.exe
+C:\Users\Szalkai-SzaboAdam\Downloads\SzalkaiSzaboAdam_veletlenMatrix\veletlenMatrix\obj\Debug\veletlenMatrix.pdb

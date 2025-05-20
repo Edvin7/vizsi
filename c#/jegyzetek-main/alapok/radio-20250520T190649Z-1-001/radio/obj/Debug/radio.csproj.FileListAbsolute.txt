@@ -1,0 +1,8 @@
+C:\Users\NagyGabor1\Downloads\20230418_NagyGabor\radio\bin\Debug\radio.exe.config
+C:\Users\NagyGabor1\Downloads\20230418_NagyGabor\radio\bin\Debug\radio.exe
+C:\Users\NagyGabor1\Downloads\20230418_NagyGabor\radio\bin\Debug\radio.pdb
+C:\Users\NagyGabor1\Downloads\20230418_NagyGabor\radio\obj\Debug\radio.csproj.AssemblyReference.cache
+C:\Users\NagyGabor1\Downloads\20230418_NagyGabor\radio\obj\Debug\radio.csproj.SuggestedBindingRedirects.cache
+C:\Users\NagyGabor1\Downloads\20230418_NagyGabor\radio\obj\Debug\radio.csproj.CoreCompileInputs.cache
+C:\Users\NagyGabor1\Downloads\20230418_NagyGabor\radio\obj\Debug\radio.exe
+C:\Users\NagyGabor1\Downloads\20230418_NagyGabor\radio\obj\Debug\radio.pdb

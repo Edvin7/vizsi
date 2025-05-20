@@ -1,0 +1,8 @@
+C:\Users\NagyGabor1\Downloads\20230404_NagyGabor\eepitmenyado\obj\Debug\eepitmenyado.csproj.AssemblyReference.cache
+C:\Users\NagyGabor1\Downloads\20230404_NagyGabor\eepitmenyado\obj\Debug\eepitmenyado.csproj.SuggestedBindingRedirects.cache
+C:\Users\NagyGabor1\Downloads\20230404_NagyGabor\eepitmenyado\obj\Debug\eepitmenyado.csproj.CoreCompileInputs.cache
+C:\Users\NagyGabor1\Downloads\20230404_NagyGabor\eepitmenyado\bin\Debug\eepitmenyado.exe.config
+C:\Users\NagyGabor1\Downloads\20230404_NagyGabor\eepitmenyado\bin\Debug\eepitmenyado.exe
+C:\Users\NagyGabor1\Downloads\20230404_NagyGabor\eepitmenyado\bin\Debug\eepitmenyado.pdb
+C:\Users\NagyGabor1\Downloads\20230404_NagyGabor\eepitmenyado\obj\Debug\eepitmenyado.exe
+C:\Users\NagyGabor1\Downloads\20230404_NagyGabor\eepitmenyado\obj\Debug\eepitmenyado.pdb

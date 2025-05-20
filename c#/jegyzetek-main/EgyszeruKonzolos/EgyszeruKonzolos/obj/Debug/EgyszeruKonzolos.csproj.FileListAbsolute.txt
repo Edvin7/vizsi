@@ -1,0 +1,7 @@
+D:\Nagy_Gabor\jegyzetek\alapok\EgyszeruKonzolos\EgyszeruKonzolos\bin\Debug\EgyszeruKonzolos.exe.config
+D:\Nagy_Gabor\jegyzetek\alapok\EgyszeruKonzolos\EgyszeruKonzolos\bin\Debug\EgyszeruKonzolos.exe
+D:\Nagy_Gabor\jegyzetek\alapok\EgyszeruKonzolos\EgyszeruKonzolos\bin\Debug\EgyszeruKonzolos.pdb
+D:\Nagy_Gabor\jegyzetek\alapok\EgyszeruKonzolos\EgyszeruKonzolos\obj\Debug\EgyszeruKonzolos.csproj.AssemblyReference.cache
+D:\Nagy_Gabor\jegyzetek\alapok\EgyszeruKonzolos\EgyszeruKonzolos\obj\Debug\EgyszeruKonzolos.csproj.CoreCompileInputs.cache
+D:\Nagy_Gabor\jegyzetek\alapok\EgyszeruKonzolos\EgyszeruKonzolos\obj\Debug\EgyszeruKonzolos.exe
+D:\Nagy_Gabor\jegyzetek\alapok\EgyszeruKonzolos\EgyszeruKonzolos\obj\Debug\EgyszeruKonzolos.pdb

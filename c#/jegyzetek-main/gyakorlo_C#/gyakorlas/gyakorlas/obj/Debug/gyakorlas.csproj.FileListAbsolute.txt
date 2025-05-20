@@ -1,0 +1,7 @@
+D:\Nagy_Gabor\jegyzetek\gyakorlo_C#\gyakorlas\gyakorlas\bin\Debug\gyakorlas.exe.config
+D:\Nagy_Gabor\jegyzetek\gyakorlo_C#\gyakorlas\gyakorlas\bin\Debug\gyakorlas.exe
+D:\Nagy_Gabor\jegyzetek\gyakorlo_C#\gyakorlas\gyakorlas\bin\Debug\gyakorlas.pdb
+D:\Nagy_Gabor\jegyzetek\gyakorlo_C#\gyakorlas\gyakorlas\obj\Debug\gyakorlas.csproj.AssemblyReference.cache
+D:\Nagy_Gabor\jegyzetek\gyakorlo_C#\gyakorlas\gyakorlas\obj\Debug\gyakorlas.csproj.CoreCompileInputs.cache
+D:\Nagy_Gabor\jegyzetek\gyakorlo_C#\gyakorlas\gyakorlas\obj\Debug\gyakorlas.exe
+D:\Nagy_Gabor\jegyzetek\gyakorlo_C#\gyakorlas\gyakorlas\obj\Debug\gyakorlas.pdb

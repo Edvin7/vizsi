@@ -1,0 +1,8 @@
+C:\Users\NagyGabor1\Downloads\20230425_NagyGabor\cimek\bin\Debug\cimek.exe.config
+C:\Users\NagyGabor1\Downloads\20230425_NagyGabor\cimek\bin\Debug\cimek.exe
+C:\Users\NagyGabor1\Downloads\20230425_NagyGabor\cimek\bin\Debug\cimek.pdb
+C:\Users\NagyGabor1\Downloads\20230425_NagyGabor\cimek\obj\Debug\cimek.csproj.AssemblyReference.cache
+C:\Users\NagyGabor1\Downloads\20230425_NagyGabor\cimek\obj\Debug\cimek.csproj.SuggestedBindingRedirects.cache
+C:\Users\NagyGabor1\Downloads\20230425_NagyGabor\cimek\obj\Debug\cimek.csproj.CoreCompileInputs.cache
+C:\Users\NagyGabor1\Downloads\20230425_NagyGabor\cimek\obj\Debug\cimek.exe
+C:\Users\NagyGabor1\Downloads\20230425_NagyGabor\cimek\obj\Debug\cimek.pdb

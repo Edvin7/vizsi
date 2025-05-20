@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Nagy_Gabor\\jegyzetek\\alapok\\SzozroTabla-20250515T102145Z-1-001\\SzozroTabla\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EDEA594-37D4-4900-8563-50EF1C19AD31}|SzozroTabla.csproj|d:\\nagy_gabor\\jegyzetek\\alapok\\szozrotabla-20250515t102145z-1-001\\szozrotabla\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EDEA594-37D4-4900-8563-50EF1C19AD31}|SzozroTabla.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EDEA594-37D4-4900-8563-50EF1C19AD31}|SzozroTabla.csproj|d:\\nagy_gabor\\jegyzetek\\alapok\\szozrotabla-20250515t102145z-1-001\\szozrotabla\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EDEA594-37D4-4900-8563-50EF1C19AD31}|SzozroTabla.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EDEA594-37D4-4900-8563-50EF1C19AD31}|SzozroTabla.csproj|D:\\Nagy_Gabor\\jegyzetek\\alapok\\SzozroTabla-20250515T102145Z-1-001\\SzozroTabla\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3EDEA594-37D4-4900-8563-50EF1C19AD31}|SzozroTabla.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Nagy_Gabor\\jegyzetek\\alapok\\SzozroTabla-20250515T102145Z-1-001\\SzozroTabla\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "D:\\Nagy_Gabor\\jegyzetek\\alapok\\SzozroTabla-20250515T102145Z-1-001\\SzozroTabla\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAqwGMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:43:22.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Nagy_Gabor\\jegyzetek\\alapok\\SzozroTabla-20250515T102145Z-1-001\\SzozroTabla\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Nagy_Gabor\\jegyzetek\\alapok\\SzozroTabla-20250515T102145Z-1-001\\SzozroTabla\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAUwHYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:22:56.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Nagy_Gabor\\jegyzetek\\alapok\\SzozroTabla-20250515T102145Z-1-001\\SzozroTabla\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Nagy_Gabor\\jegyzetek\\alapok\\SzozroTabla-20250515T102145Z-1-001\\SzozroTabla\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:22:56.157Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+D:\Nagy_Gabor\jegyzetek\programozasiTetelek\programozasiTetelek\bin\Debug\programozasiTetelek.exe.config
+D:\Nagy_Gabor\jegyzetek\programozasiTetelek\programozasiTetelek\bin\Debug\programozasiTetelek.exe
+D:\Nagy_Gabor\jegyzetek\programozasiTetelek\programozasiTetelek\bin\Debug\programozasiTetelek.pdb
+D:\Nagy_Gabor\jegyzetek\programozasiTetelek\programozasiTetelek\obj\Debug\programozasiTetelek.csproj.AssemblyReference.cache
+D:\Nagy_Gabor\jegyzetek\programozasiTetelek\programozasiTetelek\obj\Debug\programozasiTetelek.csproj.CoreCompileInputs.cache
+D:\Nagy_Gabor\jegyzetek\programozasiTetelek\programozasiTetelek\obj\Debug\programozasiTetelek.exe
+D:\Nagy_Gabor\jegyzetek\programozasiTetelek\programozasiTetelek\obj\Debug\programozasiTetelek.pdb

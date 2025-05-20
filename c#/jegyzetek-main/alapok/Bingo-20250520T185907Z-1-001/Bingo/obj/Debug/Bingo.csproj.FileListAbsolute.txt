@@ -1,0 +1,8 @@
+H:\2023-24\C#\20231207_NagyGabor\Bingo\Bingo\bin\Debug\Bingo.exe.config
+H:\2023-24\C#\20231207_NagyGabor\Bingo\Bingo\bin\Debug\Bingo.exe
+H:\2023-24\C#\20231207_NagyGabor\Bingo\Bingo\bin\Debug\Bingo.pdb
+H:\2023-24\C#\20231207_NagyGabor\Bingo\Bingo\obj\Debug\Bingo.csproj.AssemblyReference.cache
+H:\2023-24\C#\20231207_NagyGabor\Bingo\Bingo\obj\Debug\Bingo.csproj.SuggestedBindingRedirects.cache
+H:\2023-24\C#\20231207_NagyGabor\Bingo\Bingo\obj\Debug\Bingo.csproj.CoreCompileInputs.cache
+H:\2023-24\C#\20231207_NagyGabor\Bingo\Bingo\obj\Debug\Bingo.exe
+H:\2023-24\C#\20231207_NagyGabor\Bingo\Bingo\obj\Debug\Bingo.pdb

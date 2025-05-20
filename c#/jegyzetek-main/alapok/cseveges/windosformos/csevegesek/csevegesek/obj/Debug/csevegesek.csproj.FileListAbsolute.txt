@@ -1,0 +1,11 @@
+H:\2023-24\C#\20240111_NagyGabor\windosformos\csevegesek\csevegesek\bin\Debug\csevegesek.exe.config
+H:\2023-24\C#\20240111_NagyGabor\windosformos\csevegesek\csevegesek\bin\Debug\csevegesek.exe
+H:\2023-24\C#\20240111_NagyGabor\windosformos\csevegesek\csevegesek\bin\Debug\csevegesek.pdb
+H:\2023-24\C#\20240111_NagyGabor\windosformos\csevegesek\csevegesek\obj\Debug\csevegesek.csproj.AssemblyReference.cache
+H:\2023-24\C#\20240111_NagyGabor\windosformos\csevegesek\csevegesek\obj\Debug\csevegesek.csproj.SuggestedBindingRedirects.cache
+H:\2023-24\C#\20240111_NagyGabor\windosformos\csevegesek\csevegesek\obj\Debug\csevegesek.Form1.resources
+H:\2023-24\C#\20240111_NagyGabor\windosformos\csevegesek\csevegesek\obj\Debug\csevegesek.Properties.Resources.resources
+H:\2023-24\C#\20240111_NagyGabor\windosformos\csevegesek\csevegesek\obj\Debug\csevegesek.csproj.GenerateResource.cache
+H:\2023-24\C#\20240111_NagyGabor\windosformos\csevegesek\csevegesek\obj\Debug\csevegesek.csproj.CoreCompileInputs.cache
+H:\2023-24\C#\20240111_NagyGabor\windosformos\csevegesek\csevegesek\obj\Debug\csevegesek.exe
+H:\2023-24\C#\20240111_NagyGabor\windosformos\csevegesek\csevegesek\obj\Debug\csevegesek.pdb

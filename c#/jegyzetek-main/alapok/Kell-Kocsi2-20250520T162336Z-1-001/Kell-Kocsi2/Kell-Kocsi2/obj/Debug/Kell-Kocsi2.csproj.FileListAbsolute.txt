@@ -1,0 +1,8 @@
+H:\20230907_NagyGabor\Kell-Kocsi2\Kell-Kocsi2\bin\Debug\Kell-Kocsi2.exe.config
+H:\20230907_NagyGabor\Kell-Kocsi2\Kell-Kocsi2\bin\Debug\Kell-Kocsi2.exe
+H:\20230907_NagyGabor\Kell-Kocsi2\Kell-Kocsi2\bin\Debug\Kell-Kocsi2.pdb
+H:\20230907_NagyGabor\Kell-Kocsi2\Kell-Kocsi2\obj\Debug\Kell-Kocsi2.csproj.AssemblyReference.cache
+H:\20230907_NagyGabor\Kell-Kocsi2\Kell-Kocsi2\obj\Debug\Kell-Kocsi2.csproj.SuggestedBindingRedirects.cache
+H:\20230907_NagyGabor\Kell-Kocsi2\Kell-Kocsi2\obj\Debug\Kell-Kocsi2.csproj.CoreCompileInputs.cache
+H:\20230907_NagyGabor\Kell-Kocsi2\Kell-Kocsi2\obj\Debug\Kell-Kocsi2.exe
+H:\20230907_NagyGabor\Kell-Kocsi2\Kell-Kocsi2\obj\Debug\Kell-Kocsi2.pdb

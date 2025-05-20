@@ -1,0 +1,16 @@
+C:\Users\NagyGabor1\Downloads\20231221_NagyGabor\Cseveges\bin\Debug\Cseveges.exe.config
+C:\Users\NagyGabor1\Downloads\20231221_NagyGabor\Cseveges\bin\Debug\Cseveges.exe
+C:\Users\NagyGabor1\Downloads\20231221_NagyGabor\Cseveges\bin\Debug\Cseveges.pdb
+C:\Users\NagyGabor1\Downloads\20231221_NagyGabor\Cseveges\obj\Debug\Cseveges.csproj.AssemblyReference.cache
+C:\Users\NagyGabor1\Downloads\20231221_NagyGabor\Cseveges\obj\Debug\Cseveges.csproj.SuggestedBindingRedirects.cache
+C:\Users\NagyGabor1\Downloads\20231221_NagyGabor\Cseveges\obj\Debug\Cseveges.csproj.CoreCompileInputs.cache
+C:\Users\NagyGabor1\Downloads\20231221_NagyGabor\Cseveges\obj\Debug\Cseveges.exe
+C:\Users\NagyGabor1\Downloads\20231221_NagyGabor\Cseveges\obj\Debug\Cseveges.pdb
+H:\2023-24\C#\20240111_NagyGabor\Cseveges\obj\Debug\Cseveges.csproj.AssemblyReference.cache
+H:\2023-24\C#\20240111_NagyGabor\Cseveges\obj\Debug\Cseveges.csproj.SuggestedBindingRedirects.cache
+H:\2023-24\C#\20240111_NagyGabor\Cseveges\obj\Debug\Cseveges.csproj.CoreCompileInputs.cache
+H:\2023-24\C#\20240111_NagyGabor\Cseveges\obj\Debug\Cseveges.exe
+H:\2023-24\C#\20240111_NagyGabor\Cseveges\obj\Debug\Cseveges.pdb
+H:\2023-24\C#\20240111_NagyGabor\Cseveges\bin\Debug\Cseveges.exe.config
+H:\2023-24\C#\20240111_NagyGabor\Cseveges\bin\Debug\Cseveges.exe
+H:\2023-24\C#\20240111_NagyGabor\Cseveges\bin\Debug\Cseveges.pdb

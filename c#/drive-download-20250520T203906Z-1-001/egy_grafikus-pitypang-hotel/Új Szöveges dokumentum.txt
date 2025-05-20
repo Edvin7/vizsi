@@ -1,0 +1,13 @@
+Év választása a foglalásnál:
+honapok2024
+pitypnag2024
+- ezeket lemásolni
+
+
+foglalás tábla készítés
+ami foglalt piros
+ami nem zold
+ami nincs nap a honapban szurke
+
+
+bekeri a rendszer mikor akar rendszer

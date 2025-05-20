@@ -1,0 +1,8 @@
+H:\2023-24\C#\20231019_NagyGabor\playfair\playfair\bin\Debug\playfair.exe.config
+H:\2023-24\C#\20231019_NagyGabor\playfair\playfair\bin\Debug\playfair.exe
+H:\2023-24\C#\20231019_NagyGabor\playfair\playfair\bin\Debug\playfair.pdb
+H:\2023-24\C#\20231019_NagyGabor\playfair\playfair\obj\Debug\playfair.csproj.AssemblyReference.cache
+H:\2023-24\C#\20231019_NagyGabor\playfair\playfair\obj\Debug\playfair.csproj.SuggestedBindingRedirects.cache
+H:\2023-24\C#\20231019_NagyGabor\playfair\playfair\obj\Debug\playfair.csproj.CoreCompileInputs.cache
+H:\2023-24\C#\20231019_NagyGabor\playfair\playfair\obj\Debug\playfair.exe
+H:\2023-24\C#\20231019_NagyGabor\playfair\playfair\obj\Debug\playfair.pdb

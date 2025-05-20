@@ -1,0 +1,8 @@
+C:\Users\Nagy Gábor\Downloads\20230212_NagyGabor\metjelentes\bin\Debug\metjelentes.exe.config
+C:\Users\Nagy Gábor\Downloads\20230212_NagyGabor\metjelentes\bin\Debug\metjelentes.exe
+C:\Users\Nagy Gábor\Downloads\20230212_NagyGabor\metjelentes\bin\Debug\metjelentes.pdb
+C:\Users\Nagy Gábor\Downloads\20230212_NagyGabor\metjelentes\obj\Debug\metjelentes.csproj.AssemblyReference.cache
+C:\Users\Nagy Gábor\Downloads\20230212_NagyGabor\metjelentes\obj\Debug\metjelentes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nagy Gábor\Downloads\20230212_NagyGabor\metjelentes\obj\Debug\metjelentes.csproj.CoreCompileInputs.cache
+C:\Users\Nagy Gábor\Downloads\20230212_NagyGabor\metjelentes\obj\Debug\metjelentes.exe
+C:\Users\Nagy Gábor\Downloads\20230212_NagyGabor\metjelentes\obj\Debug\metjelentes.pdb

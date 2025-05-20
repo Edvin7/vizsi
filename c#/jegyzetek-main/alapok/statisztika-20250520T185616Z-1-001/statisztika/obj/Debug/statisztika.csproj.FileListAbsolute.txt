@@ -1,0 +1,8 @@
+H:\2023-24\C#\20321005_NagyGabor\statisztika\statisztika\bin\Debug\statisztika.exe.config
+H:\2023-24\C#\20321005_NagyGabor\statisztika\statisztika\bin\Debug\statisztika.exe
+H:\2023-24\C#\20321005_NagyGabor\statisztika\statisztika\bin\Debug\statisztika.pdb
+H:\2023-24\C#\20321005_NagyGabor\statisztika\statisztika\obj\Debug\statisztika.csproj.AssemblyReference.cache
+H:\2023-24\C#\20321005_NagyGabor\statisztika\statisztika\obj\Debug\statisztika.csproj.SuggestedBindingRedirects.cache
+H:\2023-24\C#\20321005_NagyGabor\statisztika\statisztika\obj\Debug\statisztika.csproj.CoreCompileInputs.cache
+H:\2023-24\C#\20321005_NagyGabor\statisztika\statisztika\obj\Debug\statisztika.exe
+H:\2023-24\C#\20321005_NagyGabor\statisztika\statisztika\obj\Debug\statisztika.pdb

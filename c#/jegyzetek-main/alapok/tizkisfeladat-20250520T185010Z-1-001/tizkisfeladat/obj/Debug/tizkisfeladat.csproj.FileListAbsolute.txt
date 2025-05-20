@@ -1,0 +1,8 @@
+H:\2023-24\C#\20230914_NagyGabor\tizkisfeladat\tizkisfeladat\obj\Debug\tizkisfeladat.csproj.AssemblyReference.cache
+H:\2023-24\C#\20230914_NagyGabor\tizkisfeladat\tizkisfeladat\obj\Debug\tizkisfeladat.csproj.SuggestedBindingRedirects.cache
+H:\2023-24\C#\20230914_NagyGabor\tizkisfeladat\tizkisfeladat\obj\Debug\tizkisfeladat.csproj.CoreCompileInputs.cache
+H:\2023-24\C#\20230914_NagyGabor\tizkisfeladat\tizkisfeladat\bin\Debug\tizkisfeladat.exe.config
+H:\2023-24\C#\20230914_NagyGabor\tizkisfeladat\tizkisfeladat\bin\Debug\tizkisfeladat.exe
+H:\2023-24\C#\20230914_NagyGabor\tizkisfeladat\tizkisfeladat\bin\Debug\tizkisfeladat.pdb
+H:\2023-24\C#\20230914_NagyGabor\tizkisfeladat\tizkisfeladat\obj\Debug\tizkisfeladat.exe
+H:\2023-24\C#\20230914_NagyGabor\tizkisfeladat\tizkisfeladat\obj\Debug\tizkisfeladat.pdb

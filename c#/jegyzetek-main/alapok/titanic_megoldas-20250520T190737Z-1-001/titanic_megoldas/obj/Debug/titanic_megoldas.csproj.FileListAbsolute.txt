@@ -1,0 +1,8 @@
+C:\Users\NagyGabor1\Downloads\20230321_NagyGabor\titanic_megoldas\bin\Debug\titanic_megoldas.exe.config
+C:\Users\NagyGabor1\Downloads\20230321_NagyGabor\titanic_megoldas\bin\Debug\titanic_megoldas.exe
+C:\Users\NagyGabor1\Downloads\20230321_NagyGabor\titanic_megoldas\bin\Debug\titanic_megoldas.pdb
+C:\Users\NagyGabor1\Downloads\20230321_NagyGabor\titanic_megoldas\obj\Debug\titanic_megoldas.csproj.AssemblyReference.cache
+C:\Users\NagyGabor1\Downloads\20230321_NagyGabor\titanic_megoldas\obj\Debug\titanic_megoldas.csproj.SuggestedBindingRedirects.cache
+C:\Users\NagyGabor1\Downloads\20230321_NagyGabor\titanic_megoldas\obj\Debug\titanic_megoldas.csproj.CoreCompileInputs.cache
+C:\Users\NagyGabor1\Downloads\20230321_NagyGabor\titanic_megoldas\obj\Debug\titanic_megoldas.exe
+C:\Users\NagyGabor1\Downloads\20230321_NagyGabor\titanic_megoldas\obj\Debug\titanic_megoldas.pdb

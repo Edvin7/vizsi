@@ -1,0 +1,10 @@
+D:\Nagy_Gabor\jegyzetek\alapok\SzozroTabla-20250515T102145Z-1-001\SzozroTabla\bin\Debug\SzozroTabla.exe.config
+D:\Nagy_Gabor\jegyzetek\alapok\SzozroTabla-20250515T102145Z-1-001\SzozroTabla\bin\Debug\SzozroTabla.exe
+D:\Nagy_Gabor\jegyzetek\alapok\SzozroTabla-20250515T102145Z-1-001\SzozroTabla\bin\Debug\SzozroTabla.pdb
+D:\Nagy_Gabor\jegyzetek\alapok\SzozroTabla-20250515T102145Z-1-001\SzozroTabla\obj\Debug\SzozroTabla.csproj.AssemblyReference.cache
+D:\Nagy_Gabor\jegyzetek\alapok\SzozroTabla-20250515T102145Z-1-001\SzozroTabla\obj\Debug\SzozroTabla.Form1.resources
+D:\Nagy_Gabor\jegyzetek\alapok\SzozroTabla-20250515T102145Z-1-001\SzozroTabla\obj\Debug\SzozroTabla.Properties.Resources.resources
+D:\Nagy_Gabor\jegyzetek\alapok\SzozroTabla-20250515T102145Z-1-001\SzozroTabla\obj\Debug\SzozroTabla.csproj.GenerateResource.cache
+D:\Nagy_Gabor\jegyzetek\alapok\SzozroTabla-20250515T102145Z-1-001\SzozroTabla\obj\Debug\SzozroTabla.csproj.CoreCompileInputs.cache
+D:\Nagy_Gabor\jegyzetek\alapok\SzozroTabla-20250515T102145Z-1-001\SzozroTabla\obj\Debug\SzozroTabla.exe
+D:\Nagy_Gabor\jegyzetek\alapok\SzozroTabla-20250515T102145Z-1-001\SzozroTabla\obj\Debug\SzozroTabla.pdb

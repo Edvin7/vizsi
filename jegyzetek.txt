@@ -15,7 +15,7 @@ touch index.js   //index létrehozása
 
 Postman teszt
 
-Post és jut esetében 
+Post és put esetében 
 Headersben: Key: Content-Type
 	    Value: application/json
 Body: Json fájl bemásolása

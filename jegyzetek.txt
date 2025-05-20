@@ -18,7 +18,7 @@ npm install express
 
 touch index.js   //index létrehozása
 
-Postman teszt
+Postman teszt:
 
 Post és put esetében 
 Headersben: Key: Content-Type
